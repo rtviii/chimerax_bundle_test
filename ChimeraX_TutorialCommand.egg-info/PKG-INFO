@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: ChimeraX-TutorialCommand
+Version: 0.1
+Summary: Example for adding commands
+Home-page: https://www.rbvi.ucsf.edu/chimerax/
+Author: UCSF RBVI
+Author-email: chimerax@cgl.ucsf.edu
+Classifier: Framework :: ChimeraX
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: Freeware
+Classifier: Environment :: MacOS X :: Aqua
+Classifier: Environment :: Win32 (MS Windows)
+Classifier: Environment :: X11 Applications
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: POSIX :: Linux
+Classifier: ChimeraX :: Bundle :: General :: 1,1 :: chimerax.tut_cmd ::  :: 
+Classifier: ChimeraX :: Command :: tutorial cofm :: General ::
+
+      Print center of mass of atoms
+Classifier: ChimeraX :: Command :: tutorial highlight :: General ::
+
+      Highlight atoms near center of mass
+Requires-Python: >=3.7
+
+Example code for implementing ChimeraX bundle.
+
+
+Implements commands "tutorial cofm" to print the center of mass of a
+
+set of atoms, and "tutorial highlight" to highlight the atoms nearest
+
+the center of mass.

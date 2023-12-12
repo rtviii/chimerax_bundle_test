@@ -1,0 +1,8 @@
+ChimeraX_TutorialCommand.egg-info/PKG-INFO
+ChimeraX_TutorialCommand.egg-info/SOURCES.txt
+ChimeraX_TutorialCommand.egg-info/dependency_links.txt
+ChimeraX_TutorialCommand.egg-info/requires.txt
+ChimeraX_TutorialCommand.egg-info/top_level.txt
+src/__init__.py
+src/cmd.py
+src/docs/user/commands/tutorial.html
